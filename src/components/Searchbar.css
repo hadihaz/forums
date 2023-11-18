@@ -1,0 +1,10 @@
+.Searchbar  form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  flex-direction: row-reverse;
+}
+.Searchbar {
+    margin-right: 400px;
+}

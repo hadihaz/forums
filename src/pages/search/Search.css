@@ -1,0 +1,11 @@
+.searchLisr{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+    margin: 50px;
+}
+.title{
+    margin-bottom: 30px;
+    font-size: 30px;
+}

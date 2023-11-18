@@ -1,0 +1,12 @@
+.postContent {
+  margin: 10px 100px 100px 100px;
+  padding: 50px 100px 100px 100px;
+  text-align: right;
+  background-color: rgb(205, 205, 205);
+}
+.header {
+  font-size: 32px;
+}
+.image{
+    margin: 50px auto; 
+}

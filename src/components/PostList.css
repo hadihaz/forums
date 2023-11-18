@@ -1,0 +1,18 @@
+.post{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    gap: 20px;
+    text-align: right;
+    padding: 50px;
+    margin-bottom: 50px;
+    background-color: rgb(205, 205, 205);
+    box-shadow: 5px 5px 5px  rgba(67, 57, 57, 0.176);
+}
+.postImage{
+    width: 25%;
+    height: 25%;
+}
+button{
+    margin-top: 5px;
+}
